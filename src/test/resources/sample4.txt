@@ -1,0 +1,7 @@
+catdograt
+cat
+dog
+dogs
+rat
+dogcat
+ratcatcat
